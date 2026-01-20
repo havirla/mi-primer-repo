@@ -1,2 +1,2 @@
 # mi-primer-repo
-Primer repositorio de prueba
+Hola es mi primer proyecto en GitHub.
